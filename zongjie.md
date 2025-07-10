@@ -6,63 +6,64 @@
 
 **Definition of Types of Innovation**
 
-According to Clayton Christensen (*The Innovator’s Dilemma*), innovation can be classified as:
+According to Clayton Christensen (*The Innovator’s Dilemma*), innovation can be divided into:
 
 - **Sustaining Innovation**:  
-  This is the improvement or upgrade of existing technology to better meet the needs of mainstream customers, usually by established companies. For example, car manufacturers constantly improve engine performance and vehicle safety to serve their main markets.
+  This means improving or updating existing technology to better meet the needs of regular customers, usually by well-known companies. For example, car makers keep making engines and safety features better to serve their main customers.
 
 - **Disruptive Innovation**:  
-  This means entering the market with simpler, lower-cost technology, initially serving low-end or niche customers who are overlooked by mainstream firms. As technology improves, disruptive innovators gradually enter mainstream markets and can replace former leaders.
+  This means coming into the market with simpler and cheaper technology, first serving low-end or smaller groups that big companies often ignore. As technology gets better, these new players slowly enter the main market and can replace the old leaders.
 
 ---
 
 **Core of the Innovator’s Dilemma**
 
-Christensen explains that established firms easily fall into the "innovator’s dilemma" for several reasons:
-1. They put most attention on current high-value customers, overlooking small or new market segments.
-2. Rigid organizational structures and slow decision-making prevent quick adaptation.
-3. Resources and strategy focus on safe, profitable sustaining innovation, not on uncertain disruptive innovation.
-4. They often see low-end or emerging markets as unimportant, but these markets are often the birthplace of disruption.
+Christensen explains that well-known companies often fall into the "innovator’s dilemma" because:
+1. They pay too much attention to their main customers and ignore smaller or new market groups.
+2. Their structures and decision-making are slow and not flexible, making it hard to change quickly.
+3. They put money and effort into safe, profitable improvements, but not into new or risky ideas.
+4. They see small or new markets as not important, but these are often where big changes start.
 
 ---
 
 **Examples of Disruptive Innovation**
 
-- In the hard disk industry, smaller-capacity hard disks entered through the personal computer market, were ignored by leading companies, but eventually replaced large-capacity disks as technology advanced.
-- In digital media, streaming services like Netflix started as niche providers but redefined the whole entertainment industry as technology and consumer habits changed.
+- In the hard disk industry, smaller hard disks came into the market through personal computers, were ignored by big companies, but later replaced larger disks as the technology got better.
+- In digital media, streaming services like Netflix started for a small group, but changed the whole entertainment industry as technology and people’s habits changed.
 
 ---
 
-**Theoretical Criticism and Alternative Perspectives**
+**Theoretical Criticism and Other Views**
 
-- **Jill Lepore** argues that the theory depends on a small number of cases and fails to capture the complexity of real, dynamic markets.
-- **Haydn Shaughnessy** points out that many companies can survive disruption by innovating and transforming themselves, which the theory underestimates.
-- **David Edgerton** reminds us that old technologies often remain important for a long time and should not be ignored.
-- **Carlota Perez** highlights that successful innovation depends not only on technology, but also on supportive social structures and access to financial resources.
+- **Jill Lepore** says the theory is based on a few examples and does not show how complex real markets are.
+- **Haydn Shaughnessy** says many companies can survive big changes by innovating and changing, but the theory does not fully see this.
+- **David Edgerton** reminds us that old technologies can still be important for a long time and should not be forgotten.
+- **Carlota Perez** points out that success in innovation needs not just new technology, but also support from society and money.
 
 ---
 
 **Strategies for Overcoming the Innovator’s Dilemma**
 
-*Christensen’s Recommendations*:
-- Build independent units or teams to develop disruptive technologies, insulated from the core business.
-- Focus early on low-end or new markets where disruptive opportunities arise.
-- Allocate resources with a long-term view, not just to current profitable segments.
-- Encourage experimentation and risk-taking, accepting that some projects will fail before success is achieved.
+*Christensen’s Suggestions*:
+- Create teams or groups that work on new and different ideas, separate from the main business.
+- Look early at small or new markets where big changes might begin.
+- Plan resources for the long term, not just for what makes money now.
+- Let teams try new things and take risks, even if some ideas do not work at first.
 
 *Birkinshaw’s Four Strategies*:
-1. **Reframe the Value Proposition**: Redefine what the company offers and who it serves. For example, IBM’s transformation from hardware to cloud services.
-2. **Collaborate with Disruptors**: Form partnerships with innovative start-ups or technology leaders to quickly access new capabilities and markets. For instance, car makers and banks working with tech start-ups.
-3. **Set Up Independent Units**: Create separate organizations to pursue disruptive ideas, as seen with Google’s Alphabet or GE’s innovation labs.
-4. **Adapt Through Experimentation**: Use rapid trials, feedback, and continuous iteration to adapt to change. Companies like Amazon and Spotify constantly adjust services based on customer needs.
+1. **Reframe the Value Proposition**: Change what the company offers and who it serves. For example, IBM changed from selling hardware to providing cloud services.
+2. **Collaborate with Disruptors**: Work with new start-ups or technology leaders to quickly get new skills and markets. For example, car makers and banks working with tech start-ups.
+3. **Set Up Independent Units**: Make separate groups to work on new ideas, like Google’s Alphabet or GE’s labs.
+4. **Adapt Through Experimentation**: Keep testing and changing based on feedback. Companies like Amazon and Spotify keep improving their services for customers.
 
 ---
 
 **Critical Reflection and Real-World Limitations**
 
-Disruptive innovation theory offers a powerful lens to understand why leading companies sometimes fail, but it does not apply equally in every industry. Some sectors have high barriers due to technology, regulation, or social structure. The ability of established firms to adapt, and the continued importance of existing technologies, is often underestimated. Managers should use disruptive innovation theory alongside concepts like dynamic capabilities, technology cycles, and the influence of financial and social factors to develop a more robust strategy.
+Disruptive innovation theory helps explain why leading companies sometimes fail, but it does not fit every industry the same way. Some industries are hard to change because of technology, rules, or how society works. Many people also do not see how well big companies can adapt, or how important old technology can still be. Managers should use this theory together with ideas like being able to change quickly, technology cycles, and social or financial factors to make better plans.
 
 ---
+
 
 # TIBS Theme 2: After Innovation
 
