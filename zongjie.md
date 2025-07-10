@@ -45,16 +45,16 @@ Christensen explains that well-known companies often fall into the "innovator’
 **Strategies for Overcoming the Innovator’s Dilemma**
 
 *Christensen’s Suggestions*:
-- Create teams or groups that work on new and different ideas, separate from the main business.
-- Look early at small or new markets where big changes might begin.
-- Plan resources for the long term, not just for what makes money now.
-- Let teams try new things and take risks, even if some ideas do not work at first.
+- Create teams or groups that work on new and different ideas, separate from the main business. These teams should have their own goals and freedom to explore.
+- Look early at small or new markets where big changes might begin, even if they seem unimportant at first.
+- Plan resources for the long term, not just for what makes money now. Investing in future opportunities helps the company stay ahead.
+- Let teams try new things and take risks, even if some ideas do not work at first, so the company can learn and discover new solutions.
 
 *Birkinshaw’s Four Strategies*:
-1. **Reframe the Value Proposition**: Change what the company offers and who it serves. For example, IBM changed from selling hardware to providing cloud services.
-2. **Collaborate with Disruptors**: Work with new start-ups or technology leaders to quickly get new skills and markets. For example, car makers and banks working with tech start-ups.
-3. **Set Up Independent Units**: Make separate groups to work on new ideas, like Google’s Alphabet or GE’s labs.
-4. **Adapt Through Experimentation**: Keep testing and changing based on feedback. Companies like Amazon and Spotify keep improving their services for customers.
+1. **Reframe the Value Proposition**: Change what the company offers and who it serves, so it fits new customer needs or new markets. For example, IBM moved from hardware to services to stay important as technology changed.
+2. **Collaborate with Disruptors**: Work with new start-ups or technology leaders to quickly get new skills, ideas, or market access. For example, car makers can learn about electric cars by partnering with tech start-ups.
+3. **Set Up Independent Units**: Make separate groups to work on new ideas with fewer limits from the main company, like Google’s Alphabet or GE’s labs. These groups can focus on innovation and move faster.
+4. **Adapt Through Experimentation**: Keep testing and changing based on feedback from the market. Companies like Amazon and Spotify try different products, listen to customers, and improve quickly to find what works best.
 
 ---
 
