@@ -278,15 +278,15 @@ Innovation financing needs cooperation between government and companies. Public 
 **Patent**
 
 **Definition:**  
-A patent protects technical inventions and gives the inventor exclusive rights for a certain period (usually 20 years). For example, **Apple** protects the Face ID and design of the iPhone with patents, creating a strong market barrier.
+A patent protects technical inventions and gives the inventor exclusive rights for a fixed term (usually 20 years). For example, **Apple** protects the Face ID and design of the iPhone with patents, creating a strong market barrier.
 
 - **Advantages:**
   - Strong legal protection, which effectively stops others from copying or using the technology.
   - Increases company market competitiveness and helps attract investors and partners.
-  - Can bring extra income through licensing or transfer, making revenue more diverse.
+  - Can bring extra income through licensing or transfer, making income more diverse.
 - **Disadvantages:**
   - High application costs, including lawyer, review, and international registration fees.
-  - Must disclose technical details, so there is a risk of reverse engineering.
+  - Technical details must be disclosed, so there is a risk of leakage.
   - The application and approval process takes a long time and may delay product launch.
 
 ---
@@ -302,7 +302,7 @@ Copyright automatically protects original works (like software code, algorithms,
   - Low cost to defend rights, suitable for protecting many works at once.
 - **Disadvantages:**
   - Only protects the form of expression, not technical principles or methods.
-  - Defending rights across countries and collecting evidence of infringement is complex and hard to enforce.
+  - It is hard to protect rights in many countries and get evidence when rules are broken.
 
 ---
 
@@ -316,8 +316,8 @@ Trade secrets protect confidential company information about technology, methods
   - In theory, protection can last forever, as long as secrecy is maintained.
   - Low protection costs, mainly for management and security measures.
 - **Disadvantages:**
-  - If leaked or reverse engineered, it is hard to protect legally.
-  - Hard to collect evidence of infringement, with high costs for defending and enforcing rights.
+  - If someone leaks it or figures out how it works, it is hard to protect by law.
+  - It is hard to find proof when someone breaks the rules, and it costs a lot to protect your rights
 
 ---
 
@@ -360,12 +360,6 @@ Design rights mainly protect the visual elements of products, like appearance or
   The EU’s GDPR requires companies to be more open and responsible for collecting and handling personal data, especially for AI-related businesses (such as data explainability and accountability). Violations can lead to heavy fines.
 - **EU AI Act**  
   This law sets up a risk-based system for AI applications. High-risk fields need stricter management, openness, and oversight. Both rules have become important standards for global data and AI governance.
-
----
-
-**Summary**
-
-This chapter systematically reviews the five main types of intellectual property—patents, copyright, trade secrets, open source, and design rights—and explains their advantages, limitations, and practical meaning with real cases. It highlights the value of a combined protection strategy for business innovation and risk control. In the digital and AI age, using different types of intellectual property can maximize innovation results and company competitiveness. For compliance, GDPR and the AI Act make clear the bottom line for data and AI development, and are legal requirements that technology companies must pay attention to. Understanding and using these tools flexibly is a required lesson for every innovator and decision maker.
 
 ---
 
