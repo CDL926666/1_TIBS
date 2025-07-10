@@ -9,62 +9,63 @@
 According to Clayton Christensen (The Innovator’s Dilemma), innovation is divided into two types:
 
 - **Sustaining Innovation**  
-  Sustaining innovation means that a company makes improvements and upgrades based on existing technology. The goal is to better meet the needs of mainstream customers in the market for performance and function. For example, car makers keep improving engine performance and safety features. These improvements are the kind of sustaining innovation that mainstream companies are good at.
+  Sustaining innovation means a company makes improvements and upgrades based on existing technology. The goal is to better meet the needs of mainstream customers for performance and function. For example, car makers keep improving engine performance and safety features.
 
 - **Disruptive Innovation**  
-  Disruptive innovation is the core theory proposed by Christensen. It means that companies use lower costs and simpler technologies to enter the market. At first, they only serve low-end or new customers and are often ignored by mainstream companies. As the technology becomes mature, these innovations gradually meet the needs of the mainstream market and finally replace the original leaders.
+  Disruptive innovation is the core theory proposed by Christensen. It means companies use lower costs and simpler technologies to enter the market. At first, they serve low-end or new customers and are often ignored by mainstream companies. As the technology matures, these innovations gradually meet the needs of the mainstream market and finally replace the original leaders.
 
 **Core of the Innovator’s Dilemma**
 
 Christensen emphasizes that leading companies can easily fall into the "innovator’s dilemma":  
-1. They pay too much attention to their current mainstream customers and ignore low-end and emerging markets;  
-2. Their organizational structure and decision processes become rigid, making it hard to change quickly;  
-3. Their resources and strategies focus on short-term, high-return sustaining innovation, while they ignore possible disruptive opportunities;  
-4. Low-end or emerging markets are wrongly seen as “not important,” but often these markets give birth to disruptive technologies.
+1. They focus too much on current mainstream customers and ignore low-end and emerging markets.  
+2. Their organizational structure and decision processes become rigid, making it hard to change quickly.  
+3. Their resources and strategies focus on short-term, high-return sustaining innovation, while ignoring possible disruptive opportunities.  
+4. Low-end or emerging markets are wrongly seen as “not important,” but these markets often create disruptive technologies.
 
 ---
 
 **Classic Cases of Disruptive Innovation**
 
-- **Hard Disk Industry: Small Hard Disks Replace Large Hard Disks**  
-  Small-capacity hard disks at first only served low-end markets such as personal computers and were ignored by mainstream large-capacity hard disk manufacturers. With the rise of the PC market, small hard disk technology gradually improved and eventually took the place of large hard disks, becoming a classic case of disruptive innovation.
+- **Hard Disk Industry:**  
+  Small-capacity hard disks at first served low-end markets such as personal computers and were ignored by large-capacity hard disk manufacturers. As the PC market grew, small hard disk technology improved and replaced large hard disks.
 
-- **Steel Industry: Mini Mills Challenge Large Steel Plants**  
-  Mini mills could only handle scrap steel and make low-end steel at first, so big companies ignored them. As technology developed, mini mills slowly entered the high-end market and finally changed the structure of the whole industry.
+- **Steel Industry:**  
+  Mini mills could only handle scrap steel and make low-end steel at first, so big companies ignored them. As technology developed, mini mills entered the high-end market and changed the industry structure.
 
-- **Retail Industry: Walmart Enters Mainstream Retail from Rural Areas**  
-  Walmart entered the market through rural and small town markets, offering low-priced and efficient goods. Later, it expanded into cities and disrupted traditional department stores and chain supermarkets.
+- **Retail Industry:**  
+  Walmart entered through rural and small town markets, offering low-priced goods. Later, it expanded into cities and disrupted traditional department stores and chain supermarkets.
 
 ---
 
 **Theoretical Criticism and Diverse Perspectives**
 
-- **Jill Lepore** criticizes that Christensen’s theory uses only a few cases and often oversimplifies reality in dynamic markets and the public field.
-- **Haydn Shaughnessy** points out that many companies were not disrupted but instead found new life by innovating and changing, and the theory underestimates the different ways companies can adapt.
-- **David Edgerton** emphasizes that we should pay attention to the lasting influence of old technologies and not only praise “new inventions.”
-- **Carlota Perez** believes that the success of innovation also depends on social structure and the environment for financial capital, not just on technology itself.
+- **Jill Lepore** criticizes that Christensen’s theory uses few cases and oversimplifies dynamic markets and the public field.
+- **Haydn Shaughnessy** points out many companies were not disrupted but adapted by innovating, and the theory underestimates ways companies adapt.
+- **David Edgerton** emphasizes we should pay attention to the lasting influence of old technologies and not only praise “new inventions.”
+- **Carlota Perez** believes the success of innovation also depends on social structure and the environment for financial capital, not just on technology.
 
 ---
 
 **Theoretical Supplements and Coping Strategies**
 
-- **Christensen** suggests that companies should set up independent innovation teams, focus on low-end markets, allow early failures, and spread out resources to disruptive projects.
-- **Teece’s Dynamic Capabilities Theory** stresses that companies need to keep sensing changes, quickly grasp new opportunities, and flexibly adjust internal structures to achieve long-term innovation breakthroughs.
-- **Birkinshaw’s Four Paths** include redefining the market, cooperative innovation, creating independent business units, and promoting adaptive experiments, which help companies deal with changes in their industries.
+- **Christensen** suggests companies set up independent innovation teams, focus on low-end markets, allow early failures, and spread out resources to disruptive projects.
+- **Teece’s Dynamic Capabilities Theory** stresses companies need to sense changes, quickly grasp new opportunities, and flexibly adjust internal structures to achieve long-term breakthroughs.
+- **Birkinshaw’s Four Paths** include redefining the market, cooperative innovation, creating independent business units, and promoting adaptive experiments.
 
 ---
 
 **Critical Reflection and Real-World Limitations**
 
-The theory of disruptive innovation gives a strong framework for understanding how companies deal with technological changes, but it does not fit all industries. Some areas are hard to disrupt because of their special technology, policies, or social structures. The theory also underestimates the ability of mainstream companies to adapt and the resilience of old technologies. Managers should combine the theory with ideas like dynamic capabilities, technology cycles, and social structures to form a more diverse strategy.
+The theory of disruptive innovation gives a framework for understanding how companies deal with technological changes, but it does not fit all industries. Some areas are hard to disrupt because of special technology, policies, or social structures. The theory also underestimates the ability of mainstream companies to adapt and the resilience of old technologies. Managers should combine the theory with ideas like dynamic capabilities, technology cycles, and social structures.
 
 ---
 
 **Conclusion**
 
-Christensen’s theory of the “innovator’s dilemma” gives a new way to understand disruptive innovation. Classic cases like small hard disks, mini mills, and Walmart are representative. Although the theory has its limits, combining it with views like dynamic capabilities and technology cycles can help companies renew themselves in changing times. Staying sensitive to emerging markets and keeping the organization flexible are keys to continued success for companies.
+Christensen’s theory of the “innovator’s dilemma” provides a way to understand disruptive innovation. Classic cases like small hard disks, mini mills, and Walmart are examples. Combining this theory with views like dynamic capabilities and technology cycles can help companies adapt in changing times. Staying sensitive to emerging markets and keeping the organization flexible are keys to continued success.
 
 ---
+
 
 # TIBS Theme 2: After Innovation
 
