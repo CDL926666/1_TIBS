@@ -127,12 +127,6 @@ Implementing an idea is only half the challenge—the other half is spreading it
 
 ---
 
-**Centralised Innovation and Open Innovation: Which Model Is More Suitable for the Future?**
-
-In the future, open innovation shows greater advantages in driving innovation and increasing productivity, but centralised innovation is still irreplaceable in high-end R&D and knowledge-intensive fields. **The best practice is to combine both and choose flexibly according to industry and enterprise needs.**
-
----
-
 **Centralised Innovation**
 
 **Advantages**
@@ -179,13 +173,6 @@ In the future, open innovation shows greater advantages in driving innovation an
 - **Platform Ecosystems**: Innovation is becoming more platform-based (such as Amazon cloud platform). Companies build innovation ecosystems to attract external innovators while still controlling core technology.
 - **Industry Perspective**: Pharmaceutical companies and new materials need centralised R&D to protect patents. Consumer electronics are more suitable for open innovation and quick market trial and error.
 
----
-
-**Theoretical Reflection and Critique**
-
-- **Open innovation is efficient, but if over-dependent on the outside, core technology can be diluted**. Companies must balance between open and proprietary boundaries.
-- **Centralised innovation has depth, but if it loses market sensitivity and spirit of collaboration, it can be left behind by the times**.
-- Truly efficient innovation needs to combine the strengths of both, adjust dynamically, and fit the global and digital economy.
 ---
 
 # TIBS Theme 4: Financing Innovation
