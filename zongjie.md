@@ -410,7 +410,7 @@ These principles together make sure that companies can control negative side eff
 **4. Challenges and Critical Reflection**
 
 - **Hard to Put into Practice, Lack of Evaluation Systems**  
-  Many companies treat RRI as just a brand slogan. In practice, it costs a lot and there is no effective evaluation, so it often becomes empty talk.
+  Many companies treat RRI as just a brand talk. In practice, it costs a lot and there is no effective evaluation, so it often becomes empty talk.
 - **Conflict Between Ethics and Economic Goals**  
   Under market pressure, companies often find it hard to balance short-term profits and long-term responsibility, and RRI can easily be pushed aside in a tough business environment.
 - **Hard to Fully Predict New Technology Risks**  
@@ -446,25 +446,25 @@ AI ethics must be embedded in company culture, with clear values such as transpa
 
 **2. Strengthen Oversight and Accountability Mechanisms**
 
-Organizations can set up independent ethics review boards to supervise the design and operation of AI projects and stop bias from being ignored. Google once formed an external advisory board as an example. Cathy O’Neil believes algorithms must face outside compulsory audits so that stakeholders can take part in oversight.
+Organizations can set up independent ethics review boards to oversight the design and operation of AI projects and stop bias from being ignored. Google once formed an external advisory board as an example. Cathy O’Neil believes algorithms must face outside must audits so that stakeholders can take part in oversight.
 
 ---
 
 **3. Transparent Feedback and Continuous Improvement**
 
-There should be anonymous reporting and open internal feedback channels to encourage staff to report possible risks. Regular team reviews and risk assessment meetings can promote transparent discussion and help find and fix hidden problems.
+There should be nameless reporting and open internal feedback channels to encourage staff to report possible risks. Regular team reviews and risk assessment meetings can promote transparent discussion and help find and fix hidden problems.
 
 ---
 
 **4. Technical and Process Governance**
 
-Use bias detection tools such as IBM AI Fairness 360 to check model fairness and transparency regularly. Manage and record all versions throughout the process to help trace and fix bias. Algorithm transparency and explainability are keys to eliminating destructive bias (O’Neil, 2016).
+Use bias detection tools such as IBM AI Fairness 360 to check model fairness and transparency regularly. Manage and record all versions throughout the process to help trace and fix bias. Algorithm transparency and explainability are keys to clear up destructive bias (O’Neil, 2016).
 
 ---
 
 **5. Diversity and Interdisciplinary Collaboration**
 
-Teams should be diverse in gender, race, and professional background to reduce unconscious bias from a single perspective. For example, Facebook carries out diversity hiring to reduce algorithm risks. Bringing in ethicists, sociologists, and other non-technical experts helps to review from many angles.
+Teams should be diverse in gender, race, and professional background to reduce unconscious bias from a single perspective. For example, Facebook execute diversity hiring to reduce algorithm risks. Bringing in ethicists, sociologists, and other non-technical experts helps to review from many angles.
 
 ---
 
@@ -482,28 +482,18 @@ High complexity often causes frequent accidents. Simplifying system design, sepa
 
 **8. Cultural Change and Leadership Responsibility**
 
-Build a “safety first” culture and encourage free expression of safety concerns. After the NASA Challenger disaster, an anonymous reporting system was introduced as a response. Leaders must set an example, respond to risk warnings, and build a transparent accountability system.
+Build a “safety first” culture and encourage free expression of safety concerns. After the NASA Challenger disaster, a nameless reporting system was introduced as a response. Leaders must set an example, respond to risk warnings, and build a transparent accountability system.
 
 ---
 
 **9. Facing Risks and Structural Bias**
 
-Cathy O’Neil points out in her book that bias is often rooted in social structures and cannot be removed just by company governance. Even with strong prevention, accidents and bias in complex systems can never be fully eliminated. Incidents should be taken as chances for learning and reflection, to push for cross-sector collaboration and policy innovation, and to achieve more resilient technology governance.
+Cathy O’Neil points out in her book that bias is often rooted in social structures and cannot be removed just by company governance. Even with strong prevention, accidents and bias in complex systems can never be fully removing. Incidents should be taken as chances for learning and reflection, to push for cross-sector collaboration and policy innovation, and to achieve more resilient technology governance.
 
 ---
 
-**Summary**
-
-To prevent “normalization of deviance,” AI companies must embed ethics, strengthen oversight, improve technical and process governance, use external audits, and build diverse teams. They also must face structural bias and systemic risks directly. As O’Neil stresses, only by combining company self-discipline and social co-governance can we really reduce disasters and social injustice, and achieve sustainable innovation and the greatest social value.
-
----
 
 # Theme 8: Social Failure
-
----
-
-**Thesis Topic**  
-Cambridge Analytica did not clearly break the law, because our election laws were made before the rise of social media. What measures should lawmakers and regulators take to make sure elections are free and fair? Please use this week’s reading materials to explain your reasons.
 
 ---
 
@@ -535,7 +525,7 @@ The Cambridge Analytica incident exposed new risks of election interference and 
 - **Digital Literacy Education**  
   The education system should add courses about finding algorithm bias and fake news, to build up citizens’ abilities (like in Estonia). Perez, in *Invisible Women*, criticizes that social data and algorithms often ignore diverse groups, and says education should strengthen public awareness of data blind spots.
 - **Open Information Platforms**  
-  Set up official platforms to show all legal political ads and data, making it easy for the public to supervise and access information.
+  Set up official platforms to show all legal political ads and data, making it easy for the public to oversight and access information.
 
 ---
 
@@ -548,11 +538,13 @@ The Cambridge Analytica incident exposed new risks of election interference and 
 
 ---
 
-**Conclusion and Further Thinking**
+**5. Encourage Social Resilience and Active Public Response**
 
-The Cambridge Analytica case reminds us that technology governance and legal reform must deal with both structural bias and real-world complexity. As Perez and O’Neil stress, the social impact of data and algorithms is not neutral. Technology governance must include ethics, transparency, and accountability, and pay special attention to groups ignored by mainstream algorithms. Only through joint governance and constant reflection can we really stop social failures from happening again in the age of data.
+- **Building Social Resilience**  
+  Besides laws and platform rules, it is important to help society deal with risks and recover from harm. This means teaching people how to question online information, report problems, and work together to push for better rules. Communities and users should not only wait for help from above—they can take action, share knowledge, and support each other to reduce harm. Over time, this can make society stronger and better able to handle the challenges of new technology.
 
 ---
+
 
 # Theme 9: Power from Data
 
@@ -592,7 +584,7 @@ Data drives higher economic efficiency, innovation, entrepreneurship, and better
 **5. Practical Strategies and Future Prospects**
 
 - **Improve Laws and Regulatory Mechanisms**: Make better laws for privacy protection, anti-monopoly, and algorithm transparency, and strengthen independent oversight.
-- **Raise Social Digital Literacy**: Increase education and public involvement, so users understand their data rights and risks, and can protect and supervise themselves.
+- **Raise Social Digital Literacy**: Increase education and public involvement, so users understand their data rights and risks, and can protect and oversight themselves.
 - **Promote International Cooperation**: Data governance needs global laws and teamwork to stop abuse of technology across borders and to set clear limits for data flows.
 
 ---
