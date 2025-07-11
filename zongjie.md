@@ -562,51 +562,73 @@ The Cambridge Analytica incident exposed new risks of election interference and 
 
 ---
 
-
 # Theme 9: Power from Data
 
 ---
 
-## 1. Data Power and Surveillance Capitalism
+**The Power of Data in Modern Society**
 
-In today’s world, data is a new source of power for companies and governments. **Shoshanna Zuboff** in *The Age of Surveillance Capitalism* shows how platforms like Google and Facebook use free services to collect huge amounts of user data, using it to predict behavior and sell ads. This “surveillance capitalism” gives a few tech giants control over information and social choices.
+**Introduction**
 
-- **Data Monopoly:** Big platforms use data and algorithms to shape user habits, make personalized ads, and even control what people see or buy.
-- **Power Gap:** Users have little say over their data. Power is held by a few firms, creating a “digital oligarchy” that decides what people read, see, or do.
-- **Privacy Loss and Social Risk:** Massive data collection weakens privacy and can split society into “information bubbles,” as seen with cases like Cambridge Analytica and PRISM.
+In today’s world, data has become a new source of power for companies and governments. Shoshanna Zuboff, in *The Age of Surveillance Capitalism*, shows how platforms like Google and Facebook use free services to collect huge amounts of user data, using it to predict behavior and sell ads. This “surveillance capitalism” gives a few tech giants control over information and social choices.
 
 ---
 
-## 2. State Surveillance and the Regulation Dilemma
+**1. Data Monopoly and Surveillance Capitalism**
 
-Governments use big data and AI for social management, like China’s social credit system or US surveillance programs. Cooperation between governments and platforms blurs the line between public safety and control, raising issues of privacy, ethics, and legitimacy. Civil groups and the media try to resist data abuse through legal action and advocacy.
-
----
-
-## 3. Social Value and Risks of Data
-
-Data can help society too. For example, **Amazon** uses data to make logistics faster, and medical data helps predict diseases. Smart cities, e-government, and public health all benefit from big data. Laws like **GDPR** give people more rights to their own data. But the benefits of data depend on fair rules and good system design.
-
----
-
-## 4. Ethical Problems and Exclusion
-
-- **Imbalance and Exclusion:** Big companies not only profit but can also push small firms and normal people aside, causing social inequality.
-- **Trust Issues:** Data misuse weakens trust—even if companies follow the rules, the public still questions if they act fairly.
-- **Security vs. Freedom:** Security-based monitoring often reduces freedom, leading to protests and demands for new laws.
+- **Data Monopoly**  
+  Big platforms use data and algorithms to shape user habits, make personalized ads, and even control what people see or buy.
+- **Power Gap**  
+  Users have little say over their data. Power is held by a few firms, creating a “digital oligarchy” that decides what people read, see, or do.
+- **Privacy Loss and Social Risk**  
+  Massive data collection weakens privacy and can split society into “information bubbles,” as seen with cases like Cambridge Analytica and PRISM.
 
 ---
 
-## 5. Solutions and Future Trends
+**2. State Surveillance and the Regulation Dilemma**
 
-- **Stronger Laws:** Countries are making better privacy, transparency, and anti-monopoly laws to control big data.
-- **Education:** Teaching people about digital risks helps them protect their own data and ask for better protection.
-- **Global Rules:** Since data crosses borders, the world needs international teamwork to stop abuse and set fair standards.
+- **State Use of Big Data**  
+  Governments use big data and AI for social management, like China’s social credit system or US surveillance programs.
+- **Blurring Lines**  
+  Cooperation between governments and platforms blurs the line between public safety and control, raising issues of privacy, ethics, and legitimacy.
+- **Resistance**  
+  Civil groups and the media try to resist data abuse through legal action and advocacy.
 
 ---
 
-## Critical Reflection
+**3. Social Value and Risks of Data**
 
-Data power can boost innovation and welfare, but also risks deepening inequality and hurting basic rights. Real change needs not just laws, but also public action, fair technology, and international cooperation—so that data helps everyone, not just a powerful few.
+- **Positive Uses**  
+  Data can help society, too. For example, Amazon uses data to make logistics faster, and medical data helps predict diseases. Smart cities, e-government, and public health all benefit from big data.
+- **Legal Protections**  
+  Laws like GDPR give people more rights to their own data. But the benefits of data depend on fair rules and good system design.
+
 ---
 
+**4. Ethical Problems and Exclusion**
+
+- **Imbalance and Exclusion**  
+  Big companies not only profit but can also push small firms and normal people aside, causing social unfairness.
+- **Trust Issues**  
+  Data misuse weakens trust—even if companies follow the rules, the public still questions if they act fairly.
+- **Security vs. Freedom**  
+  Security-based monitoring often reduces freedom, leading to protests and demands for new laws.
+
+---
+
+**5. Solutions and Future Trends**
+
+- **Stronger Laws**  
+  Countries are making better privacy, transparency, and anti-monopoly laws to control big data.
+- **Education**  
+  Teaching people about digital risks helps them protect their own data and ask for better protection.
+- **Global Rules**  
+  Since data crosses borders, the world needs international teamwork to stop abuse and set fair standards.
+
+---
+
+**Critical Reflection**
+
+Data power can boost innovation and welfare, but also risks deepening unfairness and hurting basic rights. Real change needs not just laws, but also public action, fair technology, and international cooperation—so that data helps everyone, not just a powerful few.
+
+---
