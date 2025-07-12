@@ -412,7 +412,7 @@ These principles together make sure that companies can control negative side eff
 - **Social Trust and Market Advantage**  
   By paying attention to privacy, environmental protection, and social welfare (such as Apple and Unilever), companies improve brand reputation and customer loyalty.
 - **Avoiding Risks and Leading in Policy**  
-  Proactively practicing RRI helps companies adapt early to new rules like data compliance (such as GDPR) and lowers the risk of being heavily fined for breaking the rules.
+  Actively practicing RRI helps companies adapt early to new rules like data compliance (such as GDPR) and lowers the risk of being heavily fined for breaking the rules.
 - **Finding Innovation Opportunities**  
   Including more outside views helps companies find potential needs and markets earlier (such as open hardware and crowdfunding models).
 - **Attracting Talent and Building Team Unity**  
