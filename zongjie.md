@@ -317,81 +317,71 @@ Implementing an idea is only half the challenge—the other half is spreading it
 - Use design rights for product looks.
 
 
----
-
 # 2. Data Protection and AI Compliance
 
 ---
 
-## I. GDPR (General Data Protection Regulation, EU)
+**GDPR (General Data Protection Regulation, EU)**
 
-GDPR is a strict European law to protect personal data. It applies to any business handling EU citizens' data—even if the business is not based in Europe.
+- *Definition*:  
+  GDPR is a strict European law that protects personal data. Any business handling data from EU people must follow these rules, even if the company is not in Europe.
 
-### 1. 基本要求
+- *Transparency and Consent*:  
+  Companies must clearly tell people what data is collected, why, and get their consent.  
+  *Example: A shopping app must let users accept or refuse cookies and explain what happens with their data.*
 
-- **Transparency & Consent**:  
-  Companies must clearly inform people about what data is collected and why, and must get consent.  
-  *Example: A shopping app must let users accept or refuse cookies, and explain their use.*
+- *Purpose Limitation*:  
+  Data can only be used for the reason given at the start, not reused for other purposes without new consent.  
+  *Example: If a fitness app collects your location for health tips, it cannot sell that data to advertisers unless you agree.*
 
-- **Purpose Limitation**:  
-  Data may only be used for the purpose stated at collection; new uses require new consent.  
-  *Example: A fitness app collecting your location for health advice cannot sell that data to advertisers without your OK.*
+- *Security and Breach Notification*:  
+  Companies must protect data from leaks and must report any serious leak within 72 hours.
 
-- **Security & Breach Notification**:  
-  Companies must keep data secure and report serious leaks within 72 hours.
+- *User Rights*:  
+  People can see, correct, delete, or move their data. They can say no to some uses, like direct ads.
 
-- **User Rights**:  
-  People have the right to see, correct, delete, or move their data, and can refuse certain uses (like direct ads).
+- *Automated Decisions*:  
+  If a computer system makes big choices (like loan approval), people must be told and allowed to ask for a real person to check.
 
-### 2. 自动化与处罚
+- *Fines*:  
+  Companies can be fined up to €20 million or 4% of worldwide sales.
 
-- **Automated Decisions**:  
-  If a computer makes a big decision (such as loan approval), the user must be told and can ask for a human review.
-
-- **Fines**:  
-  Companies can be fined up to €20 million or 4% of global sales.
-
-### 3. 范围影响
-
-- **Global Impact**:  
-  Even non-EU companies must comply if they serve EU users.
+- *Global Impact*:  
+  Non-EU companies must also follow GDPR if they serve EU users.
 
 ---
 
-## II. EU AI Act
+**EU AI Act**
 
-The EU AI Act is the world’s first comprehensive law regulating artificial intelligence, sorting AI systems by risk level.
+- *Definition*:  
+  The AI Act is the world’s first big law to directly manage artificial intelligence. It sorts AI into groups by risk.
 
-### 1. 风险分类与限制
+- *Banned AI*:  
+  Some AI uses are banned, like systems for social scoring or live facial recognition in public.
 
-- **Banned AI**:  
-  Total ban on some uses, like social scoring or live public facial recognition.
+- *High-Risk AI*:  
+  AI in areas like health, hiring, or policing must meet strict rules. It must use fair data, explain decisions, and keep good records.  
+  *Example: If a hospital uses AI for diagnosis, doctors and patients must know how it works and can question the results.*
 
-- **High-Risk AI**:  
-  Strict controls on AI in fields such as health, hiring, or policing—must use fair data, explain decisions, and keep detailed records.  
-  *Example: Hospitals using AI for diagnosis must ensure doctors and patients understand and can question the system.*
+- *Low/Minimal-Risk AI*:  
+  For simple AI tools (like spam filters or chatbots), only basic rules or simple user notice are needed.
 
-- **Low/Minimal-Risk AI**:  
-  Lighter rules for simple tools like spam filters or chatbots—usually just notice to users.
+- *Extra Rules for High-Risk*:  
+  Must keep technical documents and let authorities check.  
+  Must let humans oversee, pause, or change decisions.  
+  Must tell users when AI is used and give reasons for its choices.
 
-### 2. 高风险AI的额外要求
+- *Fines*:  
+  Breaking the rules can mean fines up to €30 million or 6% of revenue.
 
-- **Documentation & Oversight**:  
-  Must keep technical documentation and allow checks by authorities.  
-  Humans must be able to oversee, pause, or change decisions.  
-  Users must be told when AI is used and given reasons for outcomes.
-
-- **Fines**:  
-  Breaking rules can mean up to €30 million or 6% of revenue in fines.
-
-- **Global Scope**:  
-  Any company whose AI interacts with EU users must follow these rules.
+- *Global Scope*:  
+  Any company whose AI touches EU people must follow these rules.
 
 ---
 
-## III. Critical View
+**Critical View**
 
-Some critics say GDPR and the AI Act create high burdens for small businesses and lag behind rapid tech changes. Businesses may focus more on paperwork than real protection, and enforcement is not always strong. While these laws lead the world, gaps and new risks remain as AI grows.
+Some say GDPR and the AI Act are too hard for small businesses to follow and too slow for fast-changing technology. Firms may focus more on paperwork than real protection, and enforcement is not always strong enough. These laws are world-leading, but many gaps and new risks remain as AI grows.
 
 ---
 
