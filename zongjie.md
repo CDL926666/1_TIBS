@@ -389,14 +389,7 @@ Some say GDPR and the AI Act are too hard for small businesses to follow and too
 
 ---
 
-**1. What is Responsible Research and Innovation (RRI)**
-
-**Definition:**  
-RRI is an innovation governance idea proposed by Richard Owen and others. It requires the whole process of scientific research and technology development to actively include ethics, social values, and risk control. The core of RRI is not just following rules and laws, but putting social responsibility into organizational strategy to make sure that technological progress and social interests work together in a dynamic way.
-
----
-
-**2. The Four Main Principles of RRI and Real Cases**
+**1. The Four Main Principles of RRI and Real Cases**
 
 - **Anticipation**  
   This encourages early identification of social, ethical, and environmental impacts in the early stages of innovation. Microsoft uses an ethics review mechanism to give early warnings about AI algorithm bias. Although it is impossible to predict everything, it can reduce the risk of technology getting out of control.
@@ -414,7 +407,7 @@ These principles together make sure that companies can control negative side eff
 
 ---
 
-**3. The Value and Role of RRI**
+**2. The Value and Role of RRI**
 
 - **Social Trust and Market Advantage**  
   By paying attention to privacy, environmental protection, and social welfare (such as Apple and Unilever), companies improve brand reputation and customer loyalty.
@@ -429,7 +422,7 @@ These principles together make sure that companies can control negative side eff
 
 ---
 
-**4. Challenges and Critical Reflection**
+**3. Challenges and Critical Reflection**
 
 - **Hard to Put into Practice, Lack of Evaluation Systems**  
   Many companies treat RRI as just a brand talk. In practice, it costs a lot and there is no effective evaluation, so it often becomes empty talk.
