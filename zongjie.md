@@ -255,10 +255,10 @@ Implementing an idea is only half the challenge—the other half is spreading it
   A patent protects new inventions, including products, technology, or methods, giving the owner exclusive rights for up to 20 years. For example, Apple patents Face ID and iPhone designs, blocking direct copies by competitors.
 
 - *Advantages*:  
-  Strong legal protection; helps block copying; builds market advantage; can attract investment; can earn money by licensing or selling the patent.
+  Strong legal protection; helps block copying; builds market advantage; improve a company's position in the market and can attract investment; can earn money by licensing or selling the patent.
 
 - *Disadvantages*:  
-  Expensive and slow to get; must publish full technical details; protection ends after 20 years, so secrets may become public.
+  Patent applications need high fees and slow to get, may delay the launch of a product; must publish full technical details; protection ends after 20 years, so secrets may become public.
 
 ---
 
@@ -268,7 +268,7 @@ Implementing an idea is only half the challenge—the other half is spreading it
   Copyright automatically protects original works—like code, software, documents, images, and videos—without special registration. For example, the source code of Adobe Photoshop is protected by copyright.
 
 - *Advantages*:  
-  Protection is free and automatic; covers many types of work; lasts a long time (author’s life plus 70 years).
+  Protection does no need much process to registration, low cost and automatic; covers many types of work; lasts a long time (author’s life plus 70 years).
 
 - *Disadvantages*:  
   Only protects the way ideas are shown, not the idea or function itself; hard to prove copying; international enforcement is difficult.
@@ -281,7 +281,7 @@ Implementing an idea is only half the challenge—the other half is spreading it
   A trade secret is confidential information, like a formula, process, or algorithm, which a company keeps secret to gain an edge. For example, the Coca-Cola recipe is a well-known trade secret.
 
 - *Advantages*:  
-  No registration needed; protection can last forever if secrecy is kept; costs are low.
+  No registration needed; protection can last forever if secrecy is kept; costs are low, need security and management.
 
 - *Disadvantages*:  
   If leaked or reverse engineered, the secret is lost; hard to stop or punish others for misuse.
@@ -294,7 +294,7 @@ Implementing an idea is only half the challenge—the other half is spreading it
   An open source license lets others use, change, and share technology freely. Google’s TensorFlow, for example, uses an open source license to build a big developer community.
 
 - *Advantages*:  
-  Grows user and developer groups; can raise a company’s reputation and promote industry standards.
+  Grows user and developer groups; can raise a company’s reputation and promote industry standards, attract potential partners.
 
 - *Disadvantages*:  
   Hard to control use; profits may fall; rivals can improve or copy the technology.
