@@ -443,65 +443,63 @@ These principles together make sure that companies can control negative side eff
 
 **Introduction**
 
-“Normalization of deviance” means that small violations or unsafe behaviors in an organization are not corrected for a long time and eventually become seen as normal. As Cathy O’Neil points out in *Weapons of Math Destruction*, this phenomenon is especially dangerous in artificial intelligence and big data systems. It can lead to algorithmic bias, model opacity, and loss of data privacy, which make social injustice worse. The risks in complex systems can never be fully removed, so prevention must be combined with ongoing learning and social governance.
+“Normalization of deviance” means small rule-breaking or unsafe actions become normal after being ignored. Cathy O’Neil in *Weapons of Math Destruction* warns this is dangerous for AI and big data. It can cause algorithm bias, hidden models, and loss of privacy, making social injustice worse. Because risks in complex systems can’t be fully removed, prevention, learning, and social governance must continue.
 
 ---
 
 **1. Build Ethics and Compliance Culture**
 
-AI ethics must be embedded in company culture, with clear values such as transparency, fairness, and privacy protection. For example, Microsoft requires AI systems to be responsible to humans, without bias, and to protect privacy. Following O’Neil’s ideas, it is also important to stress algorithm accountability and openness. Regular employee training should increase sensitivity to bias and stop “black box algorithms” from expanding without oversight.
+AI ethics should be built into company values: transparency, fairness, privacy. For example, Microsoft requires its AI systems to be responsible to people, avoid bias, and protect privacy. O’Neil says openness and clear responsibility for algorithms are vital. Regular training helps staff notice bias and stop “black box” AI from spreading.
 
 ---
 
-**2. Strengthen Oversight and Accountability Mechanisms**
+**2. Oversight and Accountability**
 
-Organizations can set up independent ethics review boards to oversight the design and operation of AI projects and stop bias from being ignored. Google once formed an external advisory board as an example. Cathy O’Neil believes algorithms must face outside must audits so that stakeholders can take part in oversight.
+Companies should use independent ethics boards to check AI design and operation, preventing bias from being missed. Google once created an outside advisory board. O’Neil says outside audits are needed so many groups can help supervise.
 
 ---
 
-**3. Transparent Feedback and Continuous Improvement**
+**3. Feedback and Improvement**
 
-There should be nameless reporting and open internal feedback channels to encourage staff to report possible risks. Regular team reviews and risk assessment meetings can promote transparent discussion and help find and fix hidden problems.
+Anonymous reporting and open feedback channels let staff warn about risks. Team reviews and risk meetings help spot and fix problems early.
 
 ---
 
 **4. Technical and Process Governance**
 
-Use bias detection tools such as IBM AI Fairness 360 to check model fairness and transparency regularly. Manage and record all versions throughout the process to help trace and fix bias. Algorithm transparency and explainability are keys to clear up destructive bias (O’Neil, 2016).
+Tools like IBM AI Fairness 360 test AI fairness and openness. Record every model version to trace and fix bias. Openness and clarity in algorithms help remove hidden bias (O’Neil, 2016).
 
 ---
 
-**5. Diversity and Interdisciplinary Collaboration**
+**5. Diversity and Collaboration**
 
-Teams should be diverse in gender, race, and professional background to reduce unconscious bias from a single perspective. For example, Facebook execute diversity hiring to reduce algorithm risks. Bringing in ethicists, sociologists, and other non-technical experts helps to review from many angles.
-
----
-
-**6. External Audits and Industry Cooperation**
-
-Invite outside organizations to regularly audit AI systems for ethics and technical risks (for example, OpenAI releases ethics risk reports). Take part in making industry ethical standards and share experiences through organizations like IEEE, to promote better algorithm governance and shared responsibility.
+Teams should include people with different genders, races, and backgrounds to lower hidden bias. For example, Facebook’s diversity hiring aims to reduce algorithm risk. Adding ethicists, sociologists, and non-technical staff gives more viewpoints.
 
 ---
 
-**7. Simplifying Complexity and Loose Coupling**
+**6. External Audits and Industry Rules**
 
-High complexity often causes frequent accidents. Simplifying system design, separating modules, and using loose coupling (like redundancy and buffer mechanisms) help stop local failures from spreading to become global disasters. Using multiple suppliers in supply chains or having multiple paths in aviation communications are engineering practices of “loose coupling.”
-
----
-
-**8. Cultural Change and Leadership Responsibility**
-
-Build a “safety first” culture and encourage free expression of safety concerns. After the NASA Challenger disaster, a nameless reporting system was introduced as a response. Leaders must set an example, respond to risk warnings, and build a transparent accountability system.
+Invite outside experts to audit AI for ethics and risks (for example, OpenAI publishes risk reports). Take part in industry standards and share with groups like IEEE to improve rules and share responsibility.
 
 ---
 
-**9. Facing Risks and Structural Bias**
+**7. Simplifying Systems and Loose Coupling**
 
-Cathy O’Neil points out in her book that bias is often rooted in social structures and cannot be removed just by company governance. Even with strong prevention, accidents and bias in complex systems can never be fully removing. Incidents should be taken as chances for learning and reflection, to push for cross-sector collaboration and policy innovation, and to achieve more resilient technology governance.
+Too much complexity leads to more accidents. Make systems simpler, split modules, and use loose coupling (like backups and buffers) to stop small problems from spreading. Using several suppliers or extra aviation paths are examples.
 
 ---
 
+**8. Cultural Change and Leadership**
 
+Promote a “safety first” culture and let everyone raise concerns. After NASA’s Challenger disaster, anonymous reporting was started. Leaders must set an example, respond to warnings, and support accountability.
+
+---
+
+**9. Facing Risk and Social Bias**
+
+O’Neil notes that bias is often rooted in society and can’t be fixed by company rules alone. Even strong prevention can’t remove all risk. Each failure should be a lesson for learning, teamwork, and policy innovation for better tech governance.
+
+---
 # Theme 8: Social Failure
 
 ---
@@ -510,47 +508,47 @@ Cathy O’Neil points out in her book that bias is often rooted in social struct
 
 **Introduction**
 
-The Cambridge Analytica incident exposed new risks of election interference and data abuse. Current election laws cannot handle data manipulation and targeted ads on digital platforms. As Cathy O’Neil (*Weapons of Math Destruction*) and Caroline Criado Perez (*Invisible Women*) point out, digital systems can make social structural bias worse, and reforms are needed at many levels.
+The Cambridge Analytica case showed new risks of election interference and data abuse. Current election laws cannot deal with data manipulation and targeted ads online. As Cathy O’Neil (*Weapons of Math Destruction*) and Caroline Criado Perez (*Invisible Women*) point out, digital systems can make social bias worse, so reforms are needed at many levels.
 
 ---
 
-**1. Update Legal Frameworks to Fit the Digital Age**
+**1. Update Legal Frameworks for the Digital Age**
 
 - **Special Laws**  
-  Make laws focused on social media and data control, requiring political ads to clearly show their data sources and targeting strategies, and banning secret operations. GDPR’s data transparency rules can be used as a reference. Perez stresses that data collection standards themselves should avoid gender and group discrimination, to stop structural blind spots.
+  Make laws focused on social media and data control. Political ads must clearly show their data sources and targeting. Secret operations should be banned. GDPR’s data transparency can be a model. Perez says data collection standards must avoid gender and group bias to stop hidden unfairness.
 
 ---
 
-**2. Strengthen Platform Responsibility and Third-Party Supervision**
+**2. Strengthen Platform Responsibility and Supervision**
 
 - **Platform Accountability**  
-  Social platforms should set up ways to find and delete false information and manipulation, and take on social responsibility. Third-party independent audits (like the EU Digital Services Act) can regularly check for compliance.  
-  O’Neil says platforms should have to accept outside, compulsory checks of their algorithms and content management, to stop platforms from causing social injustice.
+  Social platforms should have ways to spot and remove false information and manipulation. They must take social responsibility. Third-party audits (like the EU Digital Services Act) can check compliance.  
+  O’Neil says platforms need to accept outside checks of their algorithms and content control, to stop social injustice.
 
 ---
 
-**3. Improve Public Digital Literacy and Transparency**
+**3. Improve Digital Literacy and Transparency**
 
 - **Digital Literacy Education**  
-  The education system should add courses about finding algorithm bias and fake news, to build up citizens’ abilities (like in Estonia). Perez, in *Invisible Women*, criticizes that social data and algorithms often ignore diverse groups, and says education should strengthen public awareness of data blind spots.
+  Schools should teach about algorithm bias and fake news to build citizens’ skills (like in Estonia). Perez notes that algorithms often miss the needs of diverse groups and says education must build public awareness of data blind spots.
 - **Open Information Platforms**  
-  Set up official platforms to show all legal political ads and data, making it easy for the public to oversight and access information.
+  Create official sites to show all legal political ads and data, so the public can check and access information.
 
 ---
 
-**4. Cross-Border Collaboration and New Technology Governance**
+**4. Cross-Border Collaboration and Tech Governance**
 
-- **International Legal Standards**  
-  Make unified data privacy and ad laws to allow for cross-border regulatory cooperation (like the UN’s Paris Internet Governance Agreement).
-- **Government-Business Cooperation to Control Risks**  
-  Require platforms to work with election management agencies to handle false information and tech abuse in time. Use new technologies like AI and blockchain (for example, Estonia’s blockchain voting) to raise trust and transparency in the system.
+- **International Standards**  
+  Build unified data privacy and ad laws to help global cooperation (like the UN’s Paris Agreement).  
+- **Government-Business Cooperation**  
+  Platforms must work with election agencies to fight fake news and tech abuse. New tools like AI and blockchain (for example, Estonia’s blockchain voting) can raise trust and openness.
 
 ---
 
-**5. Encourage Social Resilience and Active Public Response**
+**5. Build Social Resilience and Public Response**
 
-- **Building Social Resilience**  
-  Besides laws and platform rules, it is important to help society deal with risks and recover from harm. This means teaching people how to question online information, report problems, and work together to push for better rules. Communities and users should not only wait for help from above—they can take action, share knowledge, and support each other to reduce harm. Over time, this can make society stronger and better able to handle the challenges of new technology.
+- **Resilience**  
+  Besides laws and platform rules, society must learn to deal with risks and recover from harm. Teach people to question online info, report problems, and join together for better rules. Communities should not just wait for outside help—they can act, share knowledge, and support each other. Over time, this builds a society that can handle new technology challenges.
 
 ---
 
@@ -562,65 +560,65 @@ The Cambridge Analytica incident exposed new risks of election interference and 
 
 **Introduction**
 
-In today’s world, data has become a new source of power for companies and governments. Shoshanna Zuboff, in *The Age of Surveillance Capitalism*, shows how platforms like Google and Facebook use free services to collect huge amounts of user data, using it to predict behavior and sell ads. This “surveillance capitalism” gives a few tech giants control over information and social choices.
+Today, data is a main source of power for companies and governments. Shoshanna Zuboff, in *The Age of Surveillance Capitalism*, explains how platforms like Google and Facebook use free services to collect huge user data, predicting behavior and selling ads. This “surveillance capitalism” lets a few tech giants control what information people see and choose.
 
 ---
 
 **1. Data Monopoly and Surveillance Capitalism**
 
 - **Data Monopoly**  
-  Big platforms use data and algorithms to shape user habits, make personalized ads, and even control what people see or buy.
+  Big platforms use data and algorithms to shape habits, target ads, and influence choices.
 - **Power Gap**  
-  Users have little say over their data. Power is held by a few firms, creating a “digital oligarchy” that decides what people read, see, or do.
-- **Privacy Loss and Social Risk**  
-  Massive data collection weakens privacy and can split society into “information bubbles,” as seen with cases like Cambridge Analytica and PRISM.
+  Users have little control over their own data. A few firms hold most power, creating a “digital oligarchy” that chooses what people read or do.
+- **Privacy and Risk**  
+  Large data collection weakens privacy and can create “information bubbles,” as seen in the Cambridge Analytica and PRISM cases.
 
 ---
 
-**2. State Surveillance and the Regulation Dilemma**
+**2. State Surveillance and Regulation**
 
 - **State Use of Big Data**  
-  Governments use big data and AI for social management, like China’s social credit system or US surveillance programs.
+  Governments use big data and AI for social management, such as China’s social credit system or US surveillance.
 - **Blurring Lines**  
-  Cooperation between governments and platforms blurs the line between public safety and control, raising issues of privacy, ethics, and legitimacy.
+  Cooperation between governments and platforms makes it hard to tell public safety from control, raising privacy and ethics issues.
 - **Resistance**  
-  Civil groups and the media try to resist data abuse through legal action and advocacy.
+  Civil groups and media resist data abuse through legal action and public pressure.
 
 ---
 
-**3. Social Value and Risks of Data**
+**3. Social Value and Risks**
 
 - **Positive Uses**  
-  Data can help society, too. For example, Amazon uses data to make logistics faster, and medical data helps predict diseases. Smart cities, e-government, and public health all benefit from big data.
-- **Legal Protections**  
-  Laws like GDPR give people more rights to their own data. But the benefits of data depend on fair rules and good system design.
+  Data can help society. For example, Amazon speeds up logistics with data, and medical data can help predict diseases. Smart cities and public health also benefit.
+- **Legal Protection**  
+  Laws like GDPR give people more rights over their data. However, the good of data depends on fair rules and careful system design.
 
 ---
 
 **4. Ethical Problems and Exclusion**
 
 - **Imbalance and Exclusion**  
-  Big companies not only profit but can also push small firms and normal people aside, causing social unfairness.
+  Big companies can crowd out smaller firms and regular people, leading to unfairness.
 - **Trust Issues**  
-  Data misuse weakens trust—even if companies follow the rules, the public still questions if they act fairly.
+  Data misuse weakens trust. Even with rules, the public may not believe companies act fairly.
 - **Security vs. Freedom**  
-  Security-based monitoring often reduces freedom, leading to protests and demands for new laws.
+  Security-based monitoring can reduce freedom, leading to protests and calls for new laws.
 
 ---
 
-**5. Solutions and Future Trends**
+**5. Solutions and Future**
 
 - **Stronger Laws**  
-  Countries are making better privacy, transparency, and anti-monopoly laws to control big data.
+  Countries are making better privacy and anti-monopoly laws to control data.
 - **Education**  
-  Teaching people about digital risks helps them protect their own data and ask for better protection.
+  Teaching digital risks helps people protect their data and demand fair use.
 - **Global Rules**  
-  Since data crosses borders, the world needs international teamwork to stop abuse and set fair standards.
+  Since data crosses borders, the world needs global cooperation for fair standards.
 
 ---
 
 **Critical Reflection**
 
-Data power can boost innovation and welfare, but also risks deepening unfairness and hurting basic rights. Real change needs not just laws, but also public action, fair technology, and international cooperation—so that data helps everyone, not just a powerful few.
+Data power can bring progress, but it can also cause unfairness and threaten rights. Real change needs strong laws, public action, fair technology, and world cooperation—so data helps all, not just a few.
 
 ---
