@@ -54,15 +54,19 @@ Large companies often fall into this trap because:
 
 - **Reframe Value:**  
   Change what you offer and which customers you target—IBM moved from hardware to IT services to stay competitive.
+  By changing what they offer, companies can move from being disrupted back to the main market.
 
 - **Collaborate with Disruptors:**  
   Work with start-ups or new tech leaders. Car makers, for example, partner with EV start-ups to keep up with new trends.
+  Working with others helps companies adapt to new trends and lowers the risk of trying new technology alone.
 
 - **Independent Units:**  
   Create separate teams focused on new ideas. Google’s Alphabet structure lets different groups innovate without main business limits.
+  Independent units can react to changes quickly and do not hurt the main business.
 
 - **Keep Experimenting:**  
   Make constant testing and quick adjustment a habit. Amazon and Spotify regularly launch new features, listen to feedback, and adapt quickly.
+  Experimenting lets companies change fast and avoid big losses if they fail.
 
 ---
 
