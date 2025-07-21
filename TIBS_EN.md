@@ -451,9 +451,9 @@ These principles together make sure that companies can control negative side eff
 
 ---
 
-**1. Build Ethics and Compliance Culture**
+**1. Ethics, Compliance, and Values**
 
-AI ethics should be built into company values: transparency, fairness, privacy. For example, Microsoft requires its AI systems to be responsible to people, avoid bias, and protect privacy. O’Neil says openness and clear responsibility for algorithms are vital. Regular training helps staff notice bias and stop “black box” AI from spreading.
+Ethics should be part of company values—emphasizing transparency, fairness, privacy, and clear accountability. For example, Microsoft requires responsible AI and bias prevention as core principles. O’Neil highlights the need for open, explainable algorithms. Ongoing staff training ensures everyone can recognize risks and helps prevent “black box” AI from spreading.
 
 ---
 
@@ -461,44 +461,38 @@ AI ethics should be built into company values: transparency, fairness, privacy. 
 
 Companies should set up independent ethics boards and invite outside experts to regularly review AI design and operation, ensuring bias and risks are properly managed. Participating in industry standards, like those from IEEE, also helps share responsibility and improve governance.
 
-
 ---
 
-**3. Feedback and Improvement**
-
-Anonymous reporting and open feedback channels let staff warn about risks. Team reviews and risk meetings help spot and fix problems early.
-
----
-
-**4. Technical and Process Governance**
+**3. Technical and Process Governance**
 
 Tools like IBM AI Fairness 360 test AI fairness and openness. Record every model version to trace and fix bias. Openness and clarity in algorithms help remove hidden bias (O’Neil, 2016).
 
 ---
 
-**5. Diversity and Collaboration**
+**4. Diversity and Collaboration**
 
 Teams should include people with different genders, races, and backgrounds to lower hidden bias. For example, Facebook’s diversity hiring aims to reduce algorithm risk. Adding ethicists, sociologists, and non-technical staff gives more viewpoints.
 
 ---
 
-**6. Simplifying Systems and Loose Coupling**
+**5. Simplifying Systems and Loose Coupling**
 
 Too much complexity leads to more accidents. Make systems simpler, split modules, and use loose coupling (like backups and buffers) to stop small problems from spreading. Using several suppliers or extra aviation paths are examples.
 
 ---
 
-**7. Cultural Change and Leadership**
+**6. Cultural Change, Leadership, and Open Feedback**
 
-Promote a “safety first” culture and let everyone raise concerns. After NASA’s Challenger disaster, anonymous reporting was started. Leaders must set an example, respond to warnings, and support accountability.
+A “safety first” culture depends on leadership that sets an example, welcomes concerns, and supports accountability. Open feedback channels and anonymous reporting systems let staff raise risks without fear. Regular team reviews and risk meetings help identify and address problems early. After NASA’s Challenger disaster, anonymous reporting became standard—showing how organizational learning and open communication drive safer practices.
 
 ---
 
-**8. Facing Risk and Social Bias**
+**7. Facing Risk and Social Bias**
 
 O’Neil notes that bias is often rooted in society and can’t be fixed by company rules alone. Even strong prevention can’t remove all risk. Each failure should be a lesson for learning, teamwork, and policy innovation for better tech governance.
 
 ---
+
 
 # Theme 8: Social Failure
 
