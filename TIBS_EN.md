@@ -126,7 +126,6 @@ Implementing an idea is only half the challenge—the other half is spreading it
 - Internal issues—like poor coordination or culture clash between business and innovation teams—can block commercialization, even for good ideas.
 
 ---
-
 # Theme 3: Centralised vs Open Innovation
 
 ---
@@ -135,10 +134,10 @@ Implementing an idea is only half the challenge—the other half is spreading it
 
 **Advantages**
 
-- **Focus and Deep Breakthroughs**: Centralised innovation can focus on long-term goals and complex technologies (such as Bell Labs developing the transistor and laser).
-- **Resource Integration and Scale Effect**: The company brings together top talent and equipment internally to promote systematic innovation (such as Xerox PARC).
-- **High Risk Management**: The company manages major innovation risks internally, making it easier to protect intellectual property (such as Huawei 5G, NASA Moon Landing).
-- **Forming Unique Core Competitiveness**: Internal long-term accumulation of knowledge barriers makes it hard for outsiders to copy.
+- Focus and Deep Breakthroughs: Centralised innovation can focus on long-term goals and complex technologies (such as Bell Labs developing the transistor and laser).
+- Resource Integration and Scale Effect: The company brings together top talent and equipment internally to promote systematic innovation (such as Xerox PARC).
+- High Risk Management: The company manages major innovation risks internally, making it easier to protect intellectual property (such as Huawei 5G, NASA Moon Landing).
+- When a company learns a lot and keeps its important ideas inside for many years, it is not easy for other companies to copy what it does.
 
 **Applicable Scenarios**
 
@@ -147,10 +146,10 @@ Implementing an idea is only half the challenge—the other half is spreading it
 
 **Limitations and Reflection**
 
-- **High Cost**, maintaining large R&D systems is a heavy burden.
-- **Slow Response**, hard to adapt quickly to market changes.
-- **Risk Concentration**, failures have a big impact.
-- **Easily Affected by Organisational Inertia**, weak innovation drive.
+- High Cost, maintaining large R&D systems is a heavy burden.
+- Slow Response, hard to adapt quickly to market changes.
+- Risk Concentration, failures have a big impact.
+- Easily Affected by Organisational Inertia, weak innovation drive.
 - The historical experience of Bell Labs and others is limited by special monopoly environments, which are hard to repeat in the current market.
 
 ---
@@ -159,25 +158,26 @@ Implementing an idea is only half the challenge—the other half is spreading it
 
 **Advantages**
 
-- **Knowledge Sharing**: Cross-organization cooperation and open-source communities (such as Linux, joint research in biotech) speed up the flow of technology.
-- **Cost Sharing**: Companies can get mature technology and talent from outside, lowering internal development costs (such as Google buying DeepMind).
-- **Fast Market Response**: By using external cooperation and user feedback, companies can quickly adjust innovation directions (such as crowdfunding platforms, consumer electronics user testing).
-- **Supported by Globalisation and Digitalisation**: Cloud computing and digital platforms (such as GitHub) provide a base for global innovation collaboration.
+- Knowledge Sharing: Cross-organization cooperation and open-source communities (such as Linux, joint research in biotech) speed up the flow of technology.
+- Cost Sharing: Companies can get mature technology and talent from outside, lowering internal development costs (such as Google buying DeepMind).
+- Fast Market Response: By using external cooperation and user feedback, companies can quickly adjust innovation directions (such as crowdfunding platforms, consumer electronics user testing).
+- Supported by Globalisation and Digitalisation: Cloud computing and digital platforms (such as GitHub) provide a base for global innovation collaboration.
 
 **Potential Risks**
 
-- **Challenges in Intellectual Property Protection**: Open collaboration can easily lead to core technology leaks.
-- **Difficulty in Integrating Results**: External innovation needs companies to be able to integrate and turn results into business value.
+- Challenges in Intellectual Property Protection: Open collaboration can easily lead to core technology leaks.
+- Difficulty in Integrating Results: External innovation needs companies to be able to integrate and turn results into business value.
 
 ---
 
 **Hybrid Model and Future Trends**
 
-- **Ambidextrous Innovation Model**: Companies develop both internal core R&D and external open collaboration at the same time. Tesla opens some patents, keeps core research inside, and promotes win-win in the industry outside.
-- **Platform Ecosystems**: Innovation is becoming more platform-based (such as Amazon cloud platform). Companies build innovation ecosystems to attract external innovators while still controlling core technology.
-- **Industry Perspective**: Pharmaceutical companies and new materials need centralised R&D to protect patents. Consumer electronics are more suitable for open innovation and quick market trial and error.
+- Ambidextrous Innovation Model: Companies develop both internal core R&D and external open collaboration at the same time. Tesla opens some patents, keeps core research inside, and promotes win-win in the industry outside.
+- Platform Ecosystems: Innovation is becoming more platform-based (such as Amazon cloud platform). Companies build innovation ecosystems to attract external innovators while still controlling core technology.
+- Industry Perspective: Pharmaceutical companies and new materials need centralised R&D to protect patents. Consumer electronics are more suitable for open innovation and quick market trial and error.
 
 ---
+
 
 # TIBS Theme 4: Financing Innovation
 
@@ -199,42 +199,42 @@ Implementing an idea is only half the challenge—the other half is spreading it
 - **Collaboration and Division of Labor**  
   Westlake and others think that the innovation ecosystem is the division of work and collaboration between government and companies. The government is good at R&D, and companies are strong at commercialization.
 - **Supplement to Open Innovation**  
-  Traditional open innovation underestimates the role of government. Mazzucato emphasizes that the public sector should deeply take part in innovation networks to ensure that society gets the benefits.
+  Traditional open innovation often forgets the important work of the government. Mazzucato believes the public sector should play a big part in innovation, so society as a whole can benefit. Also, when the government invests in big research or supports central innovation, this is a form of open innovation too, because it helps share new knowledge with everyone.
 
 ---
 
 **3. Lean Innovation and Minimum Viable Product (MVP)**
 
 - **MVP and Cycle**  
-  MVP means developing the simplest prototype to quickly test market feedback, reduce innovation risk, and focus on the “build-measure-learn” cycle and rapid trial and error.
-- **Cultural Transformation**  
-  Lean innovation requires companies to encourage experimentation and accept failure, demanding changes in process and culture.
+  MVP is about making the simplest version of a product to quickly check market response, lower innovation risk, and focus on the “build-measure-learn” loop with fast trial and error.
+- **Cultural Change**  
+  Lean innovation needs companies to support trying new things and accepting mistakes, requiring changes in ways of working and company culture.
 
 ---
 
 **4. Corporate Innovation Practice**
 
 - **Amazon**  
-  Amazon uses small teams and MVP to incubate businesses like AWS, showing how lean innovation is used in big companies.
+  Amazon uses small teams and MVP to start new services like AWS, showing how big firms can use lean innovation.
 - **GE “FastWorks”**  
-  GE brings in lean methods to speed up industrial product development and iteration, improving market response.
+  GE uses lean methods to speed up making and improving industrial products, helping them react faster to the market.
 - **Success Factors**  
-  These include cultural change, team autonomy, data-driven approaches, and tolerance for failure.
+  These include a culture shift, team independence, using data to decide, and being open to failure.
 
 ---
 
 **5. Blitzscaling**
 
 - **Concept**  
-  Blitzscaling means seizing the market with speed first, even if efficiency is low in the short term.
+  Blitzscaling means growing as fast as possible to win the market, even if it is not efficient at first.
 - **Growth Stages**  
-  Family → Village → City → Nation, gradually expanding scale and building network effects.
+  Family → Village → City → Nation, step by step growing bigger and making strong network effects.
 - **Cases**  
-  LinkedIn and Uber became industry leaders through speed and network effects.
+  LinkedIn and Uber became top companies by moving fast and building networks.
 - **Risks**  
-  This is suitable for industries with strong network effects but comes with high organizational and financial risks.
-
+  This works best in fields with strong network effects but also brings big risks for the company and money.
 ---
+
 
 **6. Critique and Real-World Challenges**
 
@@ -457,9 +457,10 @@ AI ethics should be built into company values: transparency, fairness, privacy. 
 
 ---
 
-**2. Oversight and Accountability**
+**2. Oversight, Accountability, and External Audits**
 
-Companies should use independent ethics boards to check AI design and operation, preventing bias from being missed. Google once created an outside advisory board. O’Neil says outside audits are needed so many groups can help supervise.
+Companies should set up independent ethics boards and invite outside experts to regularly review AI design and operation, ensuring bias and risks are properly managed. Participating in industry standards, like those from IEEE, also helps share responsibility and improve governance.
+
 
 ---
 
@@ -481,29 +482,24 @@ Teams should include people with different genders, races, and backgrounds to lo
 
 ---
 
-**6. External Audits and Industry Rules**
-
-Invite outside experts to audit AI for ethics and risks (for example, OpenAI publishes risk reports). Take part in industry standards and share with groups like IEEE to improve rules and share responsibility.
-
----
-
-**7. Simplifying Systems and Loose Coupling**
+**6. Simplifying Systems and Loose Coupling**
 
 Too much complexity leads to more accidents. Make systems simpler, split modules, and use loose coupling (like backups and buffers) to stop small problems from spreading. Using several suppliers or extra aviation paths are examples.
 
 ---
 
-**8. Cultural Change and Leadership**
+**7. Cultural Change and Leadership**
 
 Promote a “safety first” culture and let everyone raise concerns. After NASA’s Challenger disaster, anonymous reporting was started. Leaders must set an example, respond to warnings, and support accountability.
 
 ---
 
-**9. Facing Risk and Social Bias**
+**8. Facing Risk and Social Bias**
 
 O’Neil notes that bias is often rooted in society and can’t be fixed by company rules alone. Even strong prevention can’t remove all risk. Each failure should be a lesson for learning, teamwork, and policy innovation for better tech governance.
 
 ---
+
 # Theme 8: Social Failure
 
 ---
